@@ -2,7 +2,6 @@ from pytube import YouTube
 from sys import argv
 
 # in future try tkinter
-# test
 
 link = argv[1]
 yt = YouTube(link)
